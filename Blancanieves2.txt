@@ -11,3 +11,5 @@ uno mas
 cambio remoto
 nuevo cambio remoto
 
+CAMBIO DESDE GITHUB DESKTOP
+
